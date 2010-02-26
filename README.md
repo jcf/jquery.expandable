@@ -6,7 +6,7 @@ This plugin is ultimately simple, it takes no arguments and assumes you simply w
 
 ## Demonstration
 
-There's a demo at http://jcf.github.com/jquery.expandable. You'll see that clicking on the top-most "view port" causing the "view port" to expand to reveal all of the contents of the first child.
+There's a demo at [http://jcf.github.com/jquery.expandable](http://jcf.github.com/jquery.expandable). You'll see that clicking on the top-most "view port" causing the "view port" to expand to reveal all of the contents of the first child.
 
 The "view port" below doesn't expand as the height of the contents is less than the height of the "view port".
 
