@@ -4,6 +4,12 @@ Created by James Conroy-Finn.
 
 This plugin is ultimately simple, it takes no arguments and assumes you simply want to have a "view port" hide the contents of a big child until a user clicks on the "view port".
 
+## Demonstration
+
+There's a demo at http://jcf.github.com/jquery.expandable. You'll see that clicking on the top-most "view port" causing the "view port" to expand to reveal all of the contents of the first child.
+
+The "view port" below doesn't expand as the height of the contents is less than the height of the "view port".
+
 ## Usage
 
 Wrap your large, element in a DIV...
