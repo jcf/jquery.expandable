@@ -1,10 +1,10 @@
-## jquery.expandable
+# jquery.expandable
 
 Created by James Conroy-Finn.
 
 This plugin is ultimately simple, it takes no arguments and assumes you simply want to have a "view port" hide the contents of a big child until a user clicks on the "view port".
 
-### Usage
+## Usage
 
 Wrap your large, element in a DIV...
 
